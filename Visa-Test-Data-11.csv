@@ -1,0 +1,30 @@
+﻿Country,Surname,Given Name,ID number,Issue Date,Expiration Date,place of issue,place of birth,gender,type,Visa,Visa No,Temp,date of issue,Expiration,Visa Place of issue,Observations
+UK,Wyatt,Asia,777755048,28-Jun-17,27-Jun-27,London,London,M,P,no,N/A,FALSE,N/A,N/A,N/A,N/A
+Singapore,Owens,Desmond,732248306,5-Nov-16,4-Nov-26,Singapore,Bukit Panjang,F,P,yes,143010410,TRUE,2022.04.09,2022.07.08,江苏,无/None
+Switzerland,Moss,Ryleigh,757874658,4-Aug-17,3-Aug-27,Bern,Bern,F,P,no,N/A,FALSE,N/A,N/A,N/A,N/A
+Germany,Barnes,Skyler,667237121,30-Dec-20,29-Dec-30,Berlin,Berlin,F,P,yes,717623551,TRUE,2022.03.31,2022.06.29,江苏,无/None
+Fiji,亮,美李,707123540,25-Jan-19,24-Jan-29,Suva,Lami,F,P,yes,355573120,FALSE,2021.10.25,2024.10.24,江苏,无/None
+Fiji,Wilcox,Eliza,575117627,1-Aug-21,31-Jul-31,Suva,Lami,F,P,yes,188858261,FALSE,2022.07.27,2025.07.26,江苏,无/None
+Italy,Austin,Kristina,442053536,28-Jun-18,27-Jun-28,Rome,Rome,F,P,yes,437578041,TRUE,2022.05.18,2022.08.17,江苏,无/None
+Singapore,Vance,Marin,284735670,7-Nov-20,6-Nov-30,Singapore,Singapore,M,P,yes,830108664,FALSE,2022.08.24,2025.08.23,江苏,无/None
+France,李,可人,640338821,28-Jul-15,27-Jul-25,Paris,Paris,F,P,yes,736216803,FALSE,2022.04.07,2025.04.06,江苏,无/None
+Germany,Summers,Denise,631065342,11-Dec-18,10-Dec-28,Berlin,Berlin,M,P,yes,713536488,TRUE,2022.07.10,2022.10.09,江苏,无/None
+Malaysia,Lawrence,Steve,510620575,29-Sep-13,28-Sep-23,Putrajaya,Putrajaya,F,P,yes,574815413,TRUE,2022.07.05,2022.10.04,江苏,无/None
+Bulgaria,Bernard,Isai,575053711,19-Sep-22,18-Sep-32,sofia,sofia,M,P,yes,455476521,FALSE,2020.06.02,2023.06.01,江苏,无/None
+Sweden,Cooper,Garrett,153162584,21-Apr-20,20-Apr-30,Stockohlm,Stockohlm,F,P,no,N/A,FALSE,N/A,N/A,N/A,N/A
+Fiji,Pierce,Valentin,353306180,16-Oct-20,15-Oct-30,Suva,Lami,M,P,yes,110288457,TRUE,2022.01.27,2022.04.26,江苏,无/None
+Singapore,王,晨晨,844320035,21-Aug-16,20-Aug-26,Singapore,Singapore,F,P,yes,156843655,FALSE,2022.12.11,2025.12.10,江苏,无/None
+France,Fletcher,Kenna,144727528,28-Feb-19,27-Feb-29,Paris,Lyon,M,P,yes,720765624,TRUE,2021.02.15,2021.05.14,江苏,无/None
+Switzerland,Reynolds,Alondra,344282220,2-Aug-19,1-Aug-29,Bern,Bern,F,P,yes,674311740,FALSE,2021.05.14,2024.05.13,江苏,无/None
+Singapore,Jones,Tristen,768738502,23-Feb-16,22-Feb-26,Singapore,Singapore,F,P,yes,550663382,FALSE,2022.09.02,2025.09.01,江苏,无/None
+Poland,Cantrell,Jovani,703541618,1-Nov-22,31-Oct-32,Warsaw,Krakaow,F,P,yes,427315214,TRUE,2022.10.23,2023.01.22,江苏,无/None
+Austria,West,Colton,281635346,23-Apr-21,22-Apr-31,Vienna,Vienna,F,P,yes,857054627,TRUE,2021.04.26,2021.07.25,江苏,无/None
+Germany,Leach,Iyana,648008270,5-Aug-14,4-Aug-24,Berlin,Berlin,M,P,yes,876222444,TRUE,2022.01.12,2022.04.11,江苏,无/None
+Russia,Chandler,Hector,885605381,19-Dec-13,18-Dec-23,Moscow,St. Petersburg,M,P,yes,380147381,TRUE,2020.11.30,2021.02.27,江苏,无/None
+Austria,Hardin,Brynn,167762356,4-Feb-20,3-Feb-30,Vienna,Salzburg,F,P,yes,302422143,FALSE,2021.04.17,2024.04.16,江苏,无/None
+Russia,Marsh,Adison,425248536,7-Sep-22,6-Sep-32,Moscow,St. Petersburg,X,P,yes,151728226,TRUE,2022.05.27,2022.08.26,江苏,无/None
+Finland,Summers,Livia,412042878,30-Aug-20,29-Aug-30,Helsinki,Tampere,F,P,no,N/A,FALSE,N/A,N/A,N/A,N/A
+UK,Glass,Teagan,845070786,14-Apr-15,13-Apr-25,London,London,F,P,no,N/A,FALSE,N/A,N/A,N/A,N/A
+Sweden,Baxter,Kinley,813377050,9-Aug-15,8-Aug-25,Stockohlm,Stockohlm,F,P,yes,303321432,TRUE,2021.11.21,2022.02.20,江苏,无/None
+Poland,Thomas,Xiomara,722701382,27-Jul-20,26-Jul-30,Warsaw,Warsaw,F,P,yes,516138445,TRUE,2023.02.03,2023.05.02,江苏,无/None
+CzechRepublic,Pruitt,Bradley,705551547,4-May-17,3-May-27,Prague,Ostrava,F,P,no,N/A,FALSE,N/A,N/A,N/A,N/A
